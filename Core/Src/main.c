@@ -141,6 +141,8 @@ int main(void)
   	result = sps30_example_usage();
 
   /* USER CODE END 2 */
+ 
+ 
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
