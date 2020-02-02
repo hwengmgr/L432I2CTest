@@ -368,7 +368,7 @@ static void MX_GPIO_Init(void)
   * @param  None
   * @retval None
   */
-extern UART_HandleTypeDef huart2; // access huart2 instance
+//extern UART_HandleTypeDef huart2; // access huart2 instance
 
 __attribute__((weak)) int __io_putchar(int ch)
 {
